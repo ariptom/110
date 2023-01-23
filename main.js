@@ -1,3 +1,5 @@
+prediction_1=""
+prediction_2=""
 Webcam.set({
     width : 350,
     height : 300,
